@@ -1,2 +1,2 @@
 # hello-world
-first simple project on github
+Hi, i am trying to get comfy using github as a starter. yea ?.
